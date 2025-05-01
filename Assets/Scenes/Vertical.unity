@@ -4329,6 +4329,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8595999657618564819, guid: cc27be0dcbb2b7d489b2898c0d467a7a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8595999658477260317, guid: cc27be0dcbb2b7d489b2898c0d467a7a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8595999658975068885, guid: cc27be0dcbb2b7d489b2898c0d467a7a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8595999659141612162, guid: cc27be0dcbb2b7d489b2898c0d467a7a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9007516400735905091, guid: cc27be0dcbb2b7d489b2898c0d467a7a,
         type: 3}
       propertyPath: InitialModule.startLifetime.minScalar
@@ -6031,6 +6051,11 @@ PrefabInstance:
       propertyPath: EmissionModule.rateOverTime.scalar
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 7114384569995078640, guid: cc27be0dcbb2b7d489b2898c0d467a7a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7280037584549789460, guid: cc27be0dcbb2b7d489b2898c0d467a7a,
         type: 3}
       propertyPath: ShapeModule.radius.value
@@ -6254,7 +6279,22 @@ PrefabInstance:
     - target: {fileID: 7942796741594134017, guid: cc27be0dcbb2b7d489b2898c0d467a7a,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 2
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7942796741594134017, guid: cc27be0dcbb2b7d489b2898c0d467a7a,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7942796741594134017, guid: cc27be0dcbb2b7d489b2898c0d467a7a,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7942796741594134017, guid: cc27be0dcbb2b7d489b2898c0d467a7a,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 7942796741914927339, guid: cc27be0dcbb2b7d489b2898c0d467a7a,
         type: 3}
